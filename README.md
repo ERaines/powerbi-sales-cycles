@@ -20,5 +20,9 @@ Tools used: Power BI, Excel
 Languages: Portuguese (report), English (summary)
 
 
-### Dashboard created to interpret the data : [Annual sales report](https://app.powerbi.com/view?r=eyJrIjoiZTk1Y2M2MDAtMmU3ZC00NGM0LWJhMTEtMzdjOGQ2MTg3ZGUyIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9)
+### [Annual sales report](https://app.powerbi.com/view?r=eyJrIjoiZTk1Y2M2MDAtMmU3ZC00NGM0LWJhMTEtMzdjOGQ2MTg3ZGUyIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9)
+
+### [Sales Plan Report](https://github.com/ERaines/powerbi-sales-cycles/blob/main/Sales%20Plan%20Report.pdf)
+
+
 
