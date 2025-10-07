@@ -1,9 +1,13 @@
-# powerbi-sales-cycles
-
-Sales Analysis Report – Power BI Project
+# Sales Analysis Report – Power BI Project
 
 This project was developed as part of my learning journey in Power BI and data analysis.
-Using fictitious data from the video “Aprenda Power BI do Zero” (by Daxus), I created an interactive dashboard and a detailed analytical report focused on sales performance and strategic planning.
+Using fictitious data from the video “Aprenda Power BI do Zero” (From Youtub Channel Daxus), I created an interactive dashboard and a detailed analytical report focused on sales performance and strategic planning.
+
+### [Annual sales report Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTk1Y2M2MDAtMmU3ZC00NGM0LWJhMTEtMzdjOGQ2MTg3ZGUyIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9)
+
+### [Sales Plan Report PDF](https://github.com/ERaines/powerbi-sales-cycles/blob/main/Sales%20Plan%20Report.pdf)
+
+
 
 The goal of this analysis was to:
 
@@ -20,9 +24,7 @@ Tools used: Power BI, Excel
 Languages: Portuguese (report), English (summary)
 
 
-### [Annual sales report](https://app.powerbi.com/view?r=eyJrIjoiZTk1Y2M2MDAtMmU3ZC00NGM0LWJhMTEtMzdjOGQ2MTg3ZGUyIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9)
 
-### [Sales Plan Report](https://github.com/ERaines/powerbi-sales-cycles/blob/main/Sales%20Plan%20Report.pdf)
 
 
 
