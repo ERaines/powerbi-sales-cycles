@@ -20,4 +20,4 @@ Tools used: Power BI, Excel
 Languages: Portuguese (report), English (summary)
 
 
-*** Dashboard created to interpret the data : [Annual sales report](https://app.powerbi.com/view?r=eyJrIjoiZTk1Y2M2MDAtMmU3ZC00NGM0LWJhMTEtMzdjOGQ2MTg3ZGUyIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9)
+### Dashboard created to interpret the data : [Annual sales report](https://app.powerbi.com/view?r=eyJrIjoiZTk1Y2M2MDAtMmU3ZC00NGM0LWJhMTEtMzdjOGQ2MTg3ZGUyIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9)
