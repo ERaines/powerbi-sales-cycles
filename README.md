@@ -7,7 +7,7 @@ Using fictitious data from the video “Aprenda Power BI do Zero” (From Youtub
 
 ### [Sales Plan Report PDF](https://github.com/ERaines/powerbi-sales-cycles/blob/main/Sales%20Plan%20Report.pdf)
 
-
+## Purpose of this project
 
 The goal of this analysis was to:
 
