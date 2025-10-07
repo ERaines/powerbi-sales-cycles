@@ -6,7 +6,8 @@ Using fictitious data from the video “Aprenda Power BI do Zero” (From Youtub
 ### [Sales Plan Report PDF](https://github.com/ERaines/powerbi-sales-cycles/blob/main/Sales%20Plan%20Report.pdf)
 
 ### [Annual sales report Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTk1Y2M2MDAtMmU3ZC00NGM0LWJhMTEtMzdjOGQ2MTg3ZGUyIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9)
-<img src="https://github.com/ERaines/powerbi-sales-cycles/blob/main/imgDashBoard.png" alt="print" width="400"/>
+
+[![Annual sales report Power BI](https://github.com/ERaines/powerbi-sales-cycles/blob/main/imgDashBoard.png)](https://app.powerbi.com/view?r=eyJrIjoiZTk1Y2M2MDAtMmU3ZC00NGM0LWJhMTEtMzdjOGQ2MTg3ZGUyIiwidCI6ImFhNDk1ZjJjLWQzN2UtNGI1OC1hYjk1LWJmMDg3NGEzYWRiMiJ9)
 
 
 ## Purpose of this project
